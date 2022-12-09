@@ -17,3 +17,5 @@ This repo contains the codes of [Quantifying the effects of social security refo
   - Add NDC
   
  **Description of files** 
+- `main_code_six_gen.py`: the code
+- `OLGPython.ipynb`: Jupyter notebook that describes and runs all the code
