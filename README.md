@@ -17,7 +17,5 @@ This repo contains the codes of [Quantifying the effects of social security refo
   - Add NDC
   
  **Description of files** 
-- `Gen_TSMS.jl`: generate the structure
-- `TSMS_functions.jl`: auxiliary functions
-- `POIL_PCU_2021.csv`: the data
-- `3States_Markov_Switching-OIL-CUP.ipynb`: Jupyter notebook that describes and runs all the code
+- `main_code_six_gen.py`: the code
+- `OLGPython.ipynb`: Jupyter notebook that describes and runs all the code
